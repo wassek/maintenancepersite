@@ -1,0 +1,5 @@
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+
+[jmix:maintenancePerSite] mixin
+ extends = jnt:virtualsite
+ - maintenancePage (weakreference, picker[type='page']) mandatory
