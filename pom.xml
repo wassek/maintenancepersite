@@ -77,7 +77,7 @@
             </releases>
             <snapshots>
                 <enabled>true</enabled>
-            </snapshots>
+            </snapshots> 
         </repository>
     </repositories>
 
